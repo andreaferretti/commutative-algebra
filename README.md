@@ -4,7 +4,7 @@ Commutative algebra
 This is the homepage for my Commutative Algebra book. It is meant to be the
 first of two volumes, the second being dedicated to homological methods.
 
-The book is available [here]().
+The book is available [on the AMS Open Math Notes website](https://www.ams.org/open-math-notes/omn-view-listing?listingId=110823).
 
 Please, use Github issues to signal errors, incosistencies, typos, or just parts
 that are written in a way that is not clear. The following is the table of contents.
