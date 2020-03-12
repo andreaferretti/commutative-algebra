@@ -9,6 +9,7 @@ The book is available [here]().
 Please, use Github issues to signal errors, incosistencies, typos, or just parts
 that are written in a way that is not clear. The following is the table of contents.
 
+```
 Introduction
 
 1 Basics
@@ -123,3 +124,4 @@ A.6 Some computations
 A.7 The trace and norm
 A.8 Abelian extensions
 A.9 Exercises
+```
